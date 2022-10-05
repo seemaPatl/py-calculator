@@ -6,3 +6,7 @@ def add(x,y):
 def subtraction(x,y):
   sum = int(x) - int(y)
   return sum
+
+def multiplication(x,y):
+  sum = int(x) * int(y)
+  return sum
