@@ -10,3 +10,7 @@ def subtraction(x,y):
 def multiplication(x,y):
   sum = int(x) * int(y)
   return sum
+
+def division(x,y):
+  sum = int(x) / int(y)
+  return sum
