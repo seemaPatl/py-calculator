@@ -14,3 +14,7 @@ def multiplication(x,y):
 def division(x,y):
   sum = int(x) / int(y)
   return sum
+
+def modulus(x,y):
+  sum = int(x) % int(y)
+  return sum
